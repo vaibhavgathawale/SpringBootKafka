@@ -1,0 +1,8 @@
+com\spring\SpringKafka\config\KafkaTopicConfig.class
+com\spring\SpringKafka\kafka\JsonKafkaProducer.class
+com\spring\SpringKafka\SpringKafkaApplication.class
+com\spring\SpringKafka\kafka\KafkaConsumer.class
+com\spring\SpringKafka\utils\AppConstants.class
+com\spring\SpringKafka\kafka\KafkaProducer.class
+com\spring\SpringKafka\payload\User.class
+com\spring\SpringKafka\controller\MessageController.class
